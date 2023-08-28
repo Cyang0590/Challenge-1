@@ -13,7 +13,7 @@ N/A
 This module serve as an practice for the students to hone their html, and css skills. By simplifying and adding the semantic elements to the codes, it allow the page to meet the accessibility standards and adding readability to the existing codes
 
 
-![Optimization](assets\Images\search-engine-optimization.jpg)
+![Optimization](./assets/images/search-engine-optimization.jpg)
 
 ## Credits
 
